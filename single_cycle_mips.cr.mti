@@ -1,0 +1,63 @@
+C:/altera/13.0sp1/single_cycle_mips/PCU.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/PCU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PCU
+
+Top level modules:
+	PCU
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/ctrl_encode_def.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/ctrl_encode_def.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/instruction_def.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/instruction_def.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/EXT.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/EXT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXT
+
+Top level modules:
+	EXT
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/DM.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/DM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/GPR.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/GPR.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/MIPS.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/MIPS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/mips_tb.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/mips_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/IM.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/IM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/altera/13.0sp1/single_cycle_mips/ALU.v {1 {vlog -work single_cycle_mips C:/altera/13.0sp1/single_cycle_mips/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
