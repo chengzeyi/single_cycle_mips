@@ -4,181 +4,181 @@ K3
 cModel Technology
 Z0 dC:\altera\13.0sp1
 vALU
-!i10b 1
 Z1 !s100 N6lmO9f73TlUj8Q;7FBHc2
 Z2 IRN5^8;P0m>I]@76_WVV5z2
 Z3 V637KdTUdY;[20a^dMEW8F1
 Z4 dC:\altera\13.0sp1\single_cycle_mips
-w1521177784
-Z5 8C:/altera/13.0sp1/single_cycle_mips/ALU.v
-Z6 FC:/altera/13.0sp1/single_cycle_mips/ALU.v
+Z5 w1521177784
+Z6 8C:/altera/13.0sp1/single_cycle_mips/ALU.v
+Z7 FC:/altera/13.0sp1/single_cycle_mips/ALU.v
 L0 3
-Z7 OV;L;10.1d;51
+Z8 OV;L;10.1d;51
 r1
+31
+Z9 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/ALU.v|
+Z10 o-work single_cycle_mips -O0
+Z11 n@a@l@u
+Z12 !s108 1523367561.613000
+Z13 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/ALU.v|
+!i10b 1
 !s85 0
-31
-!s108 1521539712.587000
-!s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/ALU.v|
-Z8 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/ALU.v|
 !s101 -O0
-Z9 o-work single_cycle_mips -O0
-Z10 n@a@l@u
 vCU
-Z11 !s100 UCWZVo03c?Ia2LXe8c^mT2
-Z12 I_[NKT9JQ1@;DSzmBP0<N41
-Z13 V<SF6>O<W>:N<]EQiIQ>791
+Z14 IlP2V:>VQi@RKBhB43@U8T0
+Z15 V<SF6>O<W>:N<]EQiIQ>791
 R4
-Z14 w1521040726
-Z15 8C:/altera/13.0sp1/single_cycle_mips/CU.v
-Z16 FC:/altera/13.0sp1/single_cycle_mips/CU.v
+Z16 w1522145650
+Z17 8C:/altera/13.0sp1/single_cycle_mips/CU.v
+Z18 FC:/altera/13.0sp1/single_cycle_mips/CU.v
 L0 4
-R7
+R8
 r1
 31
-Z17 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/CU.v|
-R9
+Z19 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/CU.v|
+R10
 n@c@u
-Z18 !s108 1521077081.667000
-Z19 !s107 instruction_def.v|ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/CU.v|
+Z20 !s100 YLVlGIzFzXN:4z_4QQe:51
+Z21 !s108 1523367561.786000
+Z22 !s107 instruction_def.v|ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/CU.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vDM
-Z20 !s100 VJ<ZFVSdeK?gd8jb`0O^f1
-Z21 I7cz2;X[0hL]j<2lXQS;QT2
-Z22 VjaoY9PS`[6K[5=RofaTj_0
+Z23 !s100 VJ<ZFVSdeK?gd8jb`0O^f1
+Z24 I7cz2;X[0hL]j<2lXQS;QT2
+Z25 VjaoY9PS`[6K[5=RofaTj_0
 R4
-Z23 w1521028336
-Z24 8C:/altera/13.0sp1/single_cycle_mips/DM.v
-Z25 FC:/altera/13.0sp1/single_cycle_mips/DM.v
+Z26 w1521028336
+Z27 8C:/altera/13.0sp1/single_cycle_mips/DM.v
+Z28 FC:/altera/13.0sp1/single_cycle_mips/DM.v
 L0 3
-R7
+R8
 r1
 31
-Z26 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/DM.v|
-R9
+Z29 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/DM.v|
+R10
 n@d@m
-Z27 !s108 1521077081.761000
-Z28 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/DM.v|
+Z30 !s108 1523367561.889000
+Z31 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/DM.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vEXT
-Z29 !s100 gio_UcJ>c2MHPh`5o[lAo0
-Z30 IMAj]SeVRNNYgG`2S?_5Ij0
-Z31 VGSIbR[GVPN0EF3md?olU72
+Z32 !s100 gio_UcJ>c2MHPh`5o[lAo0
+Z33 IMAj]SeVRNNYgG`2S?_5Ij0
+Z34 VGSIbR[GVPN0EF3md?olU72
 R4
-Z32 w1521040700
-Z33 8C:/altera/13.0sp1/single_cycle_mips/EXT.v
-Z34 FC:/altera/13.0sp1/single_cycle_mips/EXT.v
+Z35 w1521040700
+Z36 8C:/altera/13.0sp1/single_cycle_mips/EXT.v
+Z37 FC:/altera/13.0sp1/single_cycle_mips/EXT.v
 L0 3
-R7
+R8
 r1
 31
-Z35 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/EXT.v|
-R9
-Z36 n@e@x@t
-Z37 !s108 1521077081.870000
-Z38 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/EXT.v|
+Z38 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/EXT.v|
+R10
+Z39 n@e@x@t
+Z40 !s108 1523367562.111000
+Z41 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/EXT.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vGPR
-Z39 !s100 g^zTc1[3<2mh=K1Q^W<DV0
-Z40 I]A0lk]H5WKIZNl<RG4^GB2
-Z41 VI5R<HP9c:K1UmI33;9dMS3
+Z42 !s100 g^zTc1[3<2mh=K1Q^W<DV0
+Z43 I]A0lk]H5WKIZNl<RG4^GB2
+Z44 VI5R<HP9c:K1UmI33;9dMS3
 R4
-Z42 w1521033933
-Z43 8C:/altera/13.0sp1/single_cycle_mips/GPR.v
-Z44 FC:/altera/13.0sp1/single_cycle_mips/GPR.v
+Z45 w1521033933
+Z46 8C:/altera/13.0sp1/single_cycle_mips/GPR.v
+Z47 FC:/altera/13.0sp1/single_cycle_mips/GPR.v
 L0 3
-R7
+R8
 r1
 31
-Z45 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/GPR.v|
-R9
-Z46 n@g@p@r
-Z47 !s108 1521077081.964000
-Z48 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/GPR.v|
+Z48 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/GPR.v|
+R10
+Z49 n@g@p@r
+Z50 !s108 1523367562.212000
+Z51 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/GPR.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vIM
-Z49 !s100 ko51XzY[HF:`Wgzz`O`1?2
-Z50 Id=Ymzn=S43o[d<HHUeU[Y1
-Z51 V9<fRGkfW8>l4_K?Y0<zag0
+Z52 !s100 ko51XzY[HF:`Wgzz`O`1?2
+Z53 Id=Ymzn=S43o[d<HHUeU[Y1
+Z54 V9<fRGkfW8>l4_K?Y0<zag0
 R4
-Z52 w1521035560
-Z53 8C:/altera/13.0sp1/single_cycle_mips/IM.v
-Z54 FC:/altera/13.0sp1/single_cycle_mips/IM.v
+Z55 w1521035560
+Z56 8C:/altera/13.0sp1/single_cycle_mips/IM.v
+Z57 FC:/altera/13.0sp1/single_cycle_mips/IM.v
 L0 2
-R7
+R8
 r1
 31
-Z55 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/IM.v|
-R9
+Z58 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/IM.v|
+R10
 n@i@m
-Z56 !s108 1521077082.042000
-Z57 !s107 C:/altera/13.0sp1/single_cycle_mips/IM.v|
+Z59 !s108 1523367562.312000
+Z60 !s107 C:/altera/13.0sp1/single_cycle_mips/IM.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMIPS
-Z58 IPATnd7>11I3dYa1QSKPhe2
-Z59 VK51nQgR8ikNJ]TF[Gh4bi3
+Z61 !s100 k[lTdaUhgSJIoD973DYbD0
+Z62 IPATnd7>11I3dYa1QSKPhe2
+Z63 VK51nQgR8ikNJ]TF[Gh4bi3
 R4
-Z60 w1521077077
-Z61 8C:/altera/13.0sp1/single_cycle_mips/MIPS.v
-Z62 FC:/altera/13.0sp1/single_cycle_mips/MIPS.v
+Z64 w1521077077
+Z65 8C:/altera/13.0sp1/single_cycle_mips/MIPS.v
+Z66 FC:/altera/13.0sp1/single_cycle_mips/MIPS.v
 L0 3
-R7
+R8
 r1
 31
-Z63 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/MIPS.v|
-R9
-Z64 n@m@i@p@s
-Z65 !s100 k[lTdaUhgSJIoD973DYbD0
-Z66 !s108 1521077082.199000
-Z67 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/MIPS.v|
+Z67 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/MIPS.v|
+R10
+Z68 n@m@i@p@s
+Z69 !s108 1523367562.487000
+Z70 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/MIPS.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmips_tb
-Z68 !s100 i`X1R1lGVz>Zo^^AQ;zP:2
-Z69 IT`9eedm^VYM<NmcXz`=4E3
-Z70 VHfL@J;=TiSmbe>@j83EoJ0
+Z71 !s100 i`X1R1lGVz>Zo^^AQ;zP:2
+Z72 IT`9eedm^VYM<NmcXz`=4E3
+Z73 VHfL@J;=TiSmbe>@j83EoJ0
 R4
-Z71 w1521026712
-Z72 8C:/altera/13.0sp1/single_cycle_mips/mips_tb.v
-Z73 FC:/altera/13.0sp1/single_cycle_mips/mips_tb.v
+Z74 w1521026712
+Z75 8C:/altera/13.0sp1/single_cycle_mips/mips_tb.v
+Z76 FC:/altera/13.0sp1/single_cycle_mips/mips_tb.v
 L0 1
-R7
+R8
 r1
 31
-Z74 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/mips_tb.v|
-R9
-Z75 !s108 1521077082.292000
-Z76 !s107 C:/altera/13.0sp1/single_cycle_mips/mips_tb.v|
+Z77 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/mips_tb.v|
+R10
 !i10b 1
 !s85 0
+Z78 !s108 1523367562.592000
+Z79 !s107 C:/altera/13.0sp1/single_cycle_mips/mips_tb.v|
 !s101 -O0
 vPCU
-Z77 !s100 Q7NaBSj1lNf<R1Lge=1;i3
-Z78 IJYBkNZU?FRU6Y8<m]3lA51
-Z79 Vd49Eg9:G_5]mAQad[oa2l2
-R4
-Z80 w1521043975
-Z81 8C:/altera/13.0sp1/single_cycle_mips/PCU.v
-Z82 FC:/altera/13.0sp1/single_cycle_mips/PCU.v
-L0 3
-R7
-r1
-31
-Z83 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/PCU.v|
-R9
-Z84 n@p@c@u
 !i10b 1
+Z80 !s100 Q7NaBSj1lNf<R1Lge=1;i3
+Z81 IJYBkNZU?FRU6Y8<m]3lA51
+Z82 Vd49Eg9:G_5]mAQad[oa2l2
+R4
+Z83 w1521043975
+Z84 8C:/altera/13.0sp1/single_cycle_mips/PCU.v
+Z85 FC:/altera/13.0sp1/single_cycle_mips/PCU.v
+L0 3
+R8
+r1
 !s85 0
-Z85 !s108 1521077082.371000
-Z86 !s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/PCU.v|
+31
+!s108 1523367562.688000
+!s107 ctrl_encode_def.v|C:/altera/13.0sp1/single_cycle_mips/PCU.v|
+Z86 !s90 -reportprogress|300|-work|single_cycle_mips|C:/altera/13.0sp1/single_cycle_mips/PCU.v|
 !s101 -O0
+R10
+Z87 n@p@c@u
